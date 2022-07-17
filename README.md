@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About My Github 😀😃😄
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=LeeRayno" alt="visitor badge"/>
+
+![LeeRayno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeRayno&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeRayno&layout=compact&theme=tokyonight)
+
+## Top Repositories
+
+<a href="https://github.com/LeeRayno/react-antd-mobile-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeeRayno&repo=react-antd-mobile-demo&theme=buefy" />
+</a>
+<a href="https://github.com/LeeRayno/simple-watermark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeeRayno&repo=simple-watermark&theme=buefy" />
+</a>
