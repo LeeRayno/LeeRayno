@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About My Github 😀😃😄
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=LeeRayno" alt="visitor badge"/>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeeRayno)
 
 ![LeeRayno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeRayno&show_icons=true&theme=tokyonight)  
 
